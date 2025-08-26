@@ -1,4 +1,4 @@
-// 
+// Print a simple pattern using loops:
 
 #include <iostream>
 #include <string>
